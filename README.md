@@ -5,7 +5,7 @@
 <font size="8"> Problem Statement</font>
 
 The underlying task of the project is to stratify the posts from the subreddits:
-particle physics and astrophysics, to atleast a sixty five percent accuracy. In doing so, 
+particle physics and astrophysics, to at least a eighty percent accuracy. In doing so, 
 identifying the significant constituents that contributed to the efficacy of the predictive models. 
 
 ----------------------------------------------------------------------------------------------------------------------------
